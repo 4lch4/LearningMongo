@@ -1,0 +1,33 @@
+{
+  "name": "mangomachine",
+  "displayName": "Mango Machine",
+  "version": "0.0.1",
+  "description": "My attempt at learning mongoDB.",
+  "main": "MangoMachine.js",
+  "scripts": {
+    "start": "node MangoMachine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alcha/LearningMongo.git"
+  },
+  "private": true,
+  "author": {
+    "name": "Alcha",
+    "email": "admin@alcha.org",
+    "url": "https://paranoiddevs.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alcha/LearningMongo/issues"
+  },
+  "homepage": "https://github.com/Alcha/LearningMongo#readme",
+  "dependencies": {
+    "eris": "0.8.0",
+    "mongodb": "2.2.33",
+    "require-all": "^2.2.0"
+  },
+  "devDependencies": {
+    "standard": "10.0.3"
+  }
+}

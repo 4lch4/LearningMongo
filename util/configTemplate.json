@@ -1,0 +1,10 @@
+{
+  "discord": {
+    "clientId": "",
+    "clientSecret": "",
+    "username": "",
+    "token": ""
+  },
+  "botPrefix": "--",
+  "notificationChannel": ""
+}
