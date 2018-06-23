@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/Alcha/LearningMongo#readme",
   "dependencies": {
-    "eris": "0.8.0",
-    "mongodb": "2.2.33",
+    "eris": "0.8.6",
+    "mongodb": "3.0.10",
     "require-all": "^2.2.0"
   },
   "devDependencies": {
-    "standard": "10.0.3"
+    "standard": "11.0.1"
   }
 }
